@@ -1,6 +1,8 @@
 def add(a,b):
      print(a+b)
 def sub(a,b):
-    return a-b
+    print(a-b)
 def div(a,b):
-    return a/b
+    print(a/b)
+def multiply(a,b):
+    print(a,b)
