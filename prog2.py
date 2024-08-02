@@ -4,3 +4,4 @@ b=60
 mymodule.add(a,b)
 mymodule.sub(a,b)
 mymodule.div(a,b)
+mymodule.multiply(a,b)
